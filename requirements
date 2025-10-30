@@ -1,8 +1,10 @@
 dash
-plotly
-pandas
-requests
 dash-bootstrap-components
-pytz
+pandas
 numpy
+requests
+plotly
+pytz
+gunicorn
+
 
